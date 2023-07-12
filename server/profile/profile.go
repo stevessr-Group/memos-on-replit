@@ -73,7 +73,7 @@ func GetProfile() (*Profile, error) {
 				}
 			}
 		} else {
-			profile.Data = "/var/opt/memos"
+			profile.Data = "./"
 		}
 	}
 

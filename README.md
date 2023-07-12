@@ -23,6 +23,33 @@ Discuss in <a href="https://discord.gg/tfPJa4UmAv">Discord</a> / <a href="https:
 - Customizable and sharable
 - RESTful API for self-service
 
+## Deploy on replit.com
+
+bottom is here----><a href="https://replit.com/github/stevessr-Group/memos-on-replit">
+  <img alt="Run on Repl.it" src="https://replit.com/badge/github/stevessr-Group/memos-on-replit" style="height: 60px; width: 250px;" /></a>《——按钮在这里
+
+#### Tips: please :pray:choose Bash as Language.请选择Bash作为语言模板
+
+##### Step:
+
+```
+1：you can update it by yourself by using build.sh
+2：you need to set Secrets 
+USERNAME 
+PASSWORD
+before using it.
+3.now click the buttom "Run" and enjoy it
+```
+
+```
+步骤:
+1:输入build.sh进行构建
+2：在右侧栏子菜单Secrets设置USERNAME和PASSWORD两个变量，作为管理员账户
+3；点击RUN按钮，然后享受它
+```
+
+ 
+
 ## Deploy with Docker in seconds
 
 ```bash
